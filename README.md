@@ -20,12 +20,9 @@ Then, you need to use some videos in your device, and put them in the folder `as
 
 Finally, you can run the project in your device.
 
-```bash
-
-I strongly recommend you to use Android Studio or Visual Studio Code for running this project.
+> I strongly recommend you to use Android Studio or Visual Studio Code for running this project.
 
 ## Screenshots
 
 ![Screenshot 1](https://github.com/plasenca/clone-tiktok-flutter/blob/main/imgs/screenshot1.png)
 ![Screenshot 2](https://github.com/plasenca/clone-tiktok-flutter/blob/main/imgs/screenshot2.png)
-```
