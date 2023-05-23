@@ -26,6 +26,6 @@ I strongly recommend you to use Android Studio or Visual Studio Code for running
 
 ## Screenshots
 
-![Screenshot 1](./imgs/screenshot1.png)
-![Screenshot 2](./imgs/screenshot2.png)
+![Screenshot 1](https://github.com/plasenca/clone-tiktok-flutter/blob/main/imgs/screenshot1.png)
+![Screenshot 2](https://github.com/plasenca/clone-tiktok-flutter/blob/main/imgs/screenshot2.png)
 ```
